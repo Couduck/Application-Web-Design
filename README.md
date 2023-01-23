@@ -69,7 +69,7 @@ Este comando añade a la pila de cambios a guardar el archivo especificado.
 > Si se desean añadir todos los archivos nuevos/modificados a la pila de cambios a guardar a la vez, se puede usar el siguiente parametro con el mismo comando
 >
 >   ```
-$ git add -A
+> $ git add -A
 
 ### git commit
 
