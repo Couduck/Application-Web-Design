@@ -70,6 +70,7 @@ Este comando añade a la pila de cambios a guardar el archivo especificado.
 >
 >   ```
 > $ git add -A
+>   ```
 
 ### git commit
 
