@@ -70,6 +70,7 @@ Este comando añade a la pila de cambios a guardar el archivo especificado.
 >
 >   ```
 > $ git add -A
+>   ```
 
 ### git commit
 
@@ -92,7 +93,8 @@ Este comando permite cambiar de *branches*, siempre y cuando la *branch* a la cu
 > Si se desea crear una nueva *branch* y cambiarse a ella, se debe realizar el mismo comando utilizando un parametro de por medio
 >
 >   ```
-$ git checkout -b <nombreDeBranchNueva>
+> $ git checkout -b <nombreDeBranchNueva>
+>   ```
 
 ### git branch --delete
 
